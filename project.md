@@ -4,7 +4,8 @@ This case study examines how social media platforms have transformed over the ye
 The evolution of social media platforms is important as the algorithm platforms have created a diverse space for everyone , people can make connections , find people with common intrests ,do business, make new connections , use it for educational purpose etc..
 
 
-We chose two different viewpoints , Business and Social viewpoints we chose this because social media evolution has giving businesses a chance to start new businesses , make content , advertise and market for a new business etc..
+We chose two different viewpoints , Business and Social viewpoints we chose this because social media evolution has giving businesses a chance to communicate with people by  advertise and marketing new products and sales as social media is widely used by all people of all ages, this also give the businesses an advantage in compitition .The businesses can get reviews on a particuar products which helps them review their business idea. 
+The social aspect helps us understand how people make new connects meet new people on events example: influencers meeting up at an event. there are both positive and negative aspects of this there can be cyberbullying isuues if the media is used inapproprieatly , fake rumors can be spread and it can make a huge impact on peoples thoughts.
 
 
 
