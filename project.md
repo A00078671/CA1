@@ -14,10 +14,13 @@ The social aspect helps us understand how people make new connects meet new peop
 # Historical Developmen
 
 
-In 1969 - The frist message "lo" is sent over the APPANET(they was trying tpye the word "login" but after "lo" it crashed) . APPANET was eastblished in the late 1960s by the ARPR , now known as DAPRA , which is the world's direct trchnical  precursor to the moderns internet.
+1969 - The frist message "lo" is sent over the APPANET(they was trying tpye the word "login" but after "lo" it crashed) . APPANET was eastblished in the late 1960s by the ARPR , now known as DAPRA , which is the world's direct trchnical  precursor to the moderns internet.
+
+1973 - CM(community) was the frist computerized sever running software that allow users to conect to the system using a  terminal or a terminal emulater.
+
 
 <<<<<<< Updated upstream
-hello 
+hello
 =======
 >>>>>>> Stashed changes
 
