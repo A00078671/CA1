@@ -10,5 +10,11 @@ In my opinion these platforms have both negative nad positive effects the positi
 
 In 1969 - The frist message "lo" is sent over the APPANET(they was trying tpye the word "login" but after "lo" it crashed) . APPANET was eastblished in the late 1960s by the ARPR , now known as DAPRA , which is the world's direct trchnical  precursor to the moderns internet.
 
-hello 
+the first social media platforms ever made by definition were Six Degrees and Friendster neither of these platforms are around anymore despite there significance in the building of social media.
+
+in 1997 six Degrees was launched while the company who made it MacroView was founded in 1966 by Andrew Weinreich.Friendster was created by Jonathan Abrahams and was launched in 2002.
+
+Big names in social media such as Facebook, instagram and Myspace all used relativley the same idea with some tweaks being made and some new additions such as stories and voice messages.They all have one thing in common even from the very start. Allow people to communicate and share information as efficiently as possible.
+
+
 
