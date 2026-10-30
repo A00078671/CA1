@@ -33,7 +33,7 @@ Big names in social media such as Facebook, instagram and Myspace all used relat
 
 
 
-## Societal Viewpoint Analysis
+## Societal Viewpoint Analysis 1
 # Defining the social viewpoint
 
 The societal viewpoint looks at how the evolution of social media platforms has affected communication, relationships, communities, individuals and wellbeing.
@@ -47,6 +47,12 @@ Early platforms like MySpace were built around profiles. Users could only custom
 Pew Research Center (2015) found out that 57% of U.S. teens had made new friends online with common interests, mostly in social media platforms like Facebook and Instagram. About 64% of those who had met a new friend online said that met new friends through a social platforms. Furthermore, Pew Research Center (2018) also found that 77% of teens say that they spend a lot of time in online groups and forums. Most of them also said that these sites help people their age interact with individuals from different backgrounds. Thus, social media platforms help young people meet new people, find groups and connect with others beyond people they already know.
 
 # 2
+# Educational benefits
+
+The evolution of social media platforma has significantly expanded the access to knowladge and information world wide, due to social media people from all around the world have access to educational material ,unlike the treditional way of using textbooks and library resources. Students can access tutorials and basic knowlage about their desired topic through platforms like intsagram and tiktok , for example: studyclix , is a ireland based leving cert website that has past exam papers and helps students with revision , due to social media they are able to post videos and intract with students better and are able to advertise about their grins etc.
+
+Unlike treditional learning where students are relied of text books and their notes , social media has made learning more visual and fun .Platforms like youtube and instagram allows educational topics to be presented in a video form, animated, demonstration by using graphs etc. Research by Perez et al. (2023) shows that these visual aspects allow students to understand the topic better and makes learning more fun and engaging also bringing out the creative side of students.
+
 
 
 
@@ -96,7 +102,7 @@ Pew Research Center (2015) found out that 57% of U.S. teens had made new friends
 
 
 
-# Second Viewpoint
+# Business Viewpoint analysis 2
 
 
 
@@ -132,7 +138,7 @@ In today's age, where the world has become digitalised, information is constantl
 
 
 
-=======
+
 
 
 ## References
@@ -142,3 +148,9 @@ https://www.pewresearch.org/internet/2015/08/06/teens-technology-and-friendships
 
 Pew Research Center (2018) Teens' Social Media Habits and Experiences
 https://www.pewresearch.org/internet/2018/11/28/teens-social-media-habits-and-experiences/
+
+Elsevier B.V.(2023), Social media as a learning tool for digital age:A Review.
+https://www.sciencedirect.com/science/article/pii/S1877050923017222 
+
+springer nature(2023) A systamatic review of social media as a learning tool for higher education,Volume 28, pp 11921-11950
+https://link.springer.com/article/10.1007/S10639-023-11647-2
