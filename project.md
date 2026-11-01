@@ -154,3 +154,9 @@ https://www.sciencedirect.com/science/article/pii/S1877050923017222
 
 springer nature(2023) A systamatic review of social media as a learning tool for higher education,Volume 28, pp 11921-11950
 https://link.springer.com/article/10.1007/S10639-023-11647-2
+
+The frist message have been sent
+https://www.icann.org/en/blogs/details/the-first-message-transmission-29-10-2019-en
+
+What is usenet
+https://en.wikipedia.org/wiki/Usenet
