@@ -26,6 +26,9 @@ in 1997 six Degrees was launched while the company who made it MacroView was fou
 
 Big names in social media such as Facebook, instagram and Myspace all used relativley the same idea with some tweaks being made and some new additions such as stories and voice messages.They all have one thing in common even from the very start. Allow people to communicate and share information as efficiently as possible.
 
+social media influencers first started getting paid in 2005 on YouTube, monetizing there content with add revenue. This was a major breakthrough for the development of social media making it possible to turn the content into either a bit of side money or even for some a full time job.
+
+
 
 
 
