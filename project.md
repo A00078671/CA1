@@ -65,6 +65,9 @@ Unlike treditional learning where students are relied of text books and their no
 
 
 # Negatives
+# Privacy 
+
+Early profile-based social platforms mainly showed what users chose to put on their own page and share with people they are friends with. But now algorithm-driven platforms personalise what individuals see by collecting information about what users do, share, like, follow and intereact with (TikTok, 2020). For people that use such platforms means that they have less control over their own personal data. For example, the Cambridge Analytica scandal in 2018, where the data firm gathered details of around 87 million Facebook users without their permission. The US Federal Trade Commision found out that Facebook's misleading privacy disclosures let it share users' personal information with third-party apps even though the users had not given them permission to do so. This example shows that personalisation brings real privacy risks for everyone.
 
 
 
@@ -160,3 +163,7 @@ https://www.icann.org/en/blogs/details/the-first-message-transmission-29-10-2019
 
 What is usenet
 https://en.wikipedia.org/wiki/Usenet
+
+TikTok (2020) How TikTok recommends videos #ForYou. https://newsroom.tiktok.com/en-us/how-tiktok-recommends-videos-for-you/
+
+Federal Trade Commission (2019) FTC imposes $5 billion penalty and sweeping new privacy restrictions on Facebook. Press release, 24 July. https://www.ftc.gov/news-events/news/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions-facebook
