@@ -81,7 +81,11 @@ Early profile-based social platforms mainly showed what users chose to put on th
 
 
 
+# Cyberbullying
 
+The evolution of social media has increased the oppertunities of cyberbullying . This has various side effects for people who are going through this, cyberbullying may afftect the individual mentally and can cause sevier depression and social anxicity. Due to platforms like Instagram, Tiktok and Youtube , bullying has become more accessible as the person bullying can be anonomus and they dont require to show their faces. According to Cybersafekids (2024) report 38% of 12-14 year olds have experienced cyberbullying, and have mostly kept it to themselves. These experiences can cause students to have lack of confidence and also may get distracted at school. This is also common to see in the comment section of celebrities and influencers, people who have a different opinion or dislike these celebrities are also likely to sy something hurtful towards them. Some thimes this can lead to harasment and bodyshaming.
+
+Due to cases like these the EU government had enforced law such as Digital Service Act(DSA), which sets obligations of these platforms and to address illegal posting and manage online risks. For example: Instagram, it filters and hids hatefull or potential harmfull comments . These safety easures taken help in creating social media into a into a more positive and safe place.
 
 
 
@@ -167,3 +171,9 @@ https://en.wikipedia.org/wiki/Usenet
 TikTok (2020) How TikTok recommends videos #ForYou. https://newsroom.tiktok.com/en-us/how-tiktok-recommends-videos-for-you/
 
 Federal Trade Commission (2019) FTC imposes $5 billion penalty and sweeping new privacy restrictions on Facebook. Press release, 24 July. https://www.ftc.gov/news-events/news/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions-facebook
+
+Cyberbullying report (2024) , cybersafekids : guide 
+https://www.cybersafekids.ie/report2024
+
+EU laws: Digital Service Act
+https://digital-strategy.ec.europa.eu/en/policies/digital-services-act
