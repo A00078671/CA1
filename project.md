@@ -51,35 +51,24 @@ Pew Research Center (2015) found out that 57% of U.S. teens had made new friends
 # 2
 # Educational benefits
 
-<<<<<<< HEAD
 The evolution of social media platform has significantly expanded the access to knowledge and information worldwide, due to social media people from all around the world have access to educational material, unlike the traditional way of using textbooks and library resources. Students can access tutorials and basic knowlege about their desired topic through platforms like Intsagram and TikTok, for example: Studyclix, is an Ireland based Leaving Cert website that has past exam papers and helps students with revision, due to social media they are able to post videos and interact with students better and are able to advertise about their grins etc.
 
 Unlike traditional learning where students are relied of textbooks and their notes, social media has made learning more visual and fun. Platforms like Youtube and Instagram allows educational topics to be presented in a video form, animated, demonstration by using graphs etc. Research by Perez et al. (2023) shows that these visual aspects allow students to understand the topic better and makes learning more fun and engaging also bringing out the creative side of students.
 
 
 
-=======
-The evolution of social media platforma has significantly expanded the access to knowladge and information world wide, due to social media people from all around the world have access to educational material ,unlike the treditional way of using textbooks and library resources. Students can access tutorials and basic knowlage about their desired topic through platforms like intsagram and tiktok , for example: studyclix , is a ireland based leving cert website that has past exam papers and helps students with revision , due to social media they are able to post videos and intract with students better and are able to advertise about their grins etc.
-
-Unlike treditional learning where students are relied of text books and their notes , social media has made learning more visual and fun .Platforms like youtube and instagram allows educational topics to be presented in a video form, animated, demonstration by using graphs etc. Research by Perez et al. (2023) shows that these visual aspects allow students to understand the topic better and makes learning more fun and engaging also bringing out the creative side of students.
->>>>>>> 81dd95cd459dc900295e756a6368c22cacfb4f3c
 
 
 
 # Negatives
 # Privacy 
 
-<<<<<<< HEAD
 Early profile-based social platforms mainly showed what users chose to put on their own page and share with people they are friends with. But now algorithm-driven platforms personalise what individuals see by collecting information about what users do, share, like, follow and interact with (TikTok, 2020). For people that use such platforms means that they have less control over their own personal data. For example, the Cambridge Analytica scandal in 2018, where the data firm gathered details of around 87 million Facebook users without their permission. The US Federal Trade Commission found out that Facebook's misleading privacy disclosures let it share users' personal information with third-party apps even though the users had not given them permission to do so. This example shows that personalisation brings real privacy risks for everyone.
 
-=======
-Early profile-based social platforms mainly showed what users chose to put on their own page and share with people they are friends with. But now algorithm-driven platforms personalise what individuals see by collecting information about what users do, share, like, follow and intereact with (TikTok, 2020). For people that use such platforms means that they have less control over their own personal data. For example, the Cambridge Analytica scandal in 2018, where the data firm gathered details of around 87 million Facebook users without their permission. The US Federal Trade Commision found out that Facebook's misleading privacy disclosures let it share users' personal information with third-party apps even though the users had not given them permission to do so. This example shows that personalisation brings real privacy risks for everyone.
->>>>>>> 81dd95cd459dc900295e756a6368c22cacfb4f3c
 
 
 # Cyberbullying
 
-<<<<<<< HEAD
 The evolution of social media has increased the opportunities of cyberbullying. This has various side effects for people who are going through this, cyberbullying may affect the individual mentally and can cause sever depression and social anxiety. Due to platforms like Instagram, TikTok and YouTube, bullying has become more accessible as the person bullying can be anonymous and they don't require to show their faces. According to Cybersafe kids (2024) report 38% of 12-14 year-olds have experienced cyberbullying and have mostly kept it to themselves. These experiences can cause students to have lack of confidence and may get distracted at school. This is also common to see in the comment section of celebrities and influencers, people who have a different opinion or dislike these celebrities are also likely to say something hurtful towards them. Sometime's this can lead to harasment and body shaming.
 
 Due to cases like these the EU government had enforced law such as Digital Service Act (DSA), which sets obligations of these platforms and to address illegal posting and manage online risks. For example: Instagram, it filters and hides hateful or potential harmful comments. These safety easures taken help in creating social media into a more positive and safe place.
@@ -87,18 +76,12 @@ Due to cases like these the EU government had enforced law such as Digital Servi
 
 
 
-=======
-The evolution of social media has increased the oppertunities of cyberbullying . This has various side effects for people who are going through this, cyberbullying may afftect the individual mentally and can cause sevier depression and social anxicity. Due to platforms like Instagram, Tiktok and Youtube , bullying has become more accessible as the person bullying can be anonomus and they dont require to show their faces. According to Cybersafekids (2024) report 38% of 12-14 year olds have experienced cyberbullying, and have mostly kept it to themselves. These experiences can cause students to have lack of confidence and also may get distracted at school. This is also common to see in the comment section of celebrities and influencers, people who have a different opinion or dislike these celebrities are also likely to sy something hurtful towards them. Some thimes this can lead to harasment and bodyshaming.
-
-Due to cases like these the EU government had enforced law such as Digital Service Act(DSA), which sets obligations of these platforms and to address illegal posting and manage online risks. For example: Instagram, it filters and hids hatefull or potential harmfull comments . These safety easures taken help in creating social media into a into a more positive and safe place.
->>>>>>> 81dd95cd459dc900295e756a6368c22cacfb4f3c
 
 
 
 # Business Viewpoint analysis 2
 In this section will show how social media has changed the way companies operate the communicate with customers.
 
-<<<<<<< HEAD
 # postives
 # Digital and advertising 
 Social media has revolutionized the way businesses connect with their target audience or consumer (target audience consists if the specific group of individuals who are most are most likely to engage with your product or service). It has become an indispensable tool for marketers seeking to build brand awareness, engage with their target audience and customers to dive sales. Platforms like Facebook, Instagram and TikTok offer easier and free access to vast consumer that can be reached with carefully crafted content.
@@ -122,19 +105,6 @@ When using above social media some your personal information will become clear o
 
 
 
-=======
-# Positives
-# Advertising 
-Social media has revolutionized the way businesses connect with their target audience or consumer (target audience consists if the specific group of individuals who are most are most likely to engage with your product or service). It has become an indispensable tool for marketers seeking to build brand awareness, engage with their target audience and customers to dive sales. Platforms like Facebook, Instagram and TikTok offer easier and free access to vast consumer that can be reached with carefully crafted content.
-
-For example, companies can use promote their product through short videos on TikTok or Interarm to reach specific audiences. Also online advertising can reduce the marketing cost and makes advertising more accessible to smaller companies. about 65%  of TikTok user report that they have purchased reductant discovering it in incidentally on the platform and 75% of user believed that creators content was more turstworthy than traditional advertsing
-
-# Access to customer data and market research
-
-When using  social media some your personal information will become clear online, such as age, gender, education, location and intertest. These all can bed use by the companies use and collect data  to who would interest with their product or series. Also compared to traditional e methods of hiring  third party research agencies air conducting expensive office questionnaires , social media questionnaires  , polls and giveaways can collect large scale data in a short time at a very low cost. These data are more spontaneous the revealing real pain point and everyday language habits, like the RedCupContest or organic sharing of cup naming quirks rely on user generated content , slashing traditional ad creation cost.
-
-Businesses or companies can observe competitor's pricing strategies , promotional activities , audience responses  and content gaps in real time.
->>>>>>> 81dd95cd459dc900295e756a6368c22cacfb4f3c
 
 
 # Negatives
@@ -175,7 +145,7 @@ In today's age, where the world has become digitalised, information is constantl
 
 
 
-## Conclusion
+
 
 
 
