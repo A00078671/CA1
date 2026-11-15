@@ -78,7 +78,7 @@ In this section will show how social media has changed the way companies operate
 # Advertising 
 Social media has revolutionized the way businesses connect with their target audience or consumer (target audience consists if the specific group of individuals who are most are most likely to engage with your product or service). It has become an indispensable tool for marketers seeking to build brand awareness, engage with their target audience and customers to dive sales. Platforms like Facebook, Instagram and TikTok offer easier and free access to vast consumer that can be reached with carefully crafted content.
 
-For example, companies can use promote their product through short videos on TikTok or Interarm to reach specific audiences. Also online advertising can reduce the marketing cost and makes advertising more accessible to smaller companies. about 65%  of TikTok user report that they have purchased reductant discovering it in incidentally on the platform.
+For example, companies can use promote their product through short videos on TikTok or Interarm to reach specific audiences. Also online advertising can reduce the marketing cost and makes advertising more accessible to smaller companies. about 65%  of TikTok user report that they have purchased reductant discovering it in incidentally on the platform and 75% of user believed that creators content was more turstworthy than traditional advertsing
 
 # Access to customer data and market research
 
@@ -88,18 +88,12 @@ Businesses or companies can observe competitor's pricing strategies , promotiona
 
 
 # Negatives
-# 
+# Damage to business reputation
 
-Social media can damage a business reputation quickly because public conversation happens in real time and negative content spreads much faster than the turth.It can be shown where employee careless posts company data or inappropriate personal remarks by staff on socal media can quickly reflect on the entire oraganization.For example Bud Light in 2023 ,a promotional socaial media partnership with transgender influence Dylan Mvlvaney triggered heavy conservative backlash and consumer boycott. Sales dropped about 25% .Also insensitive messaging can trigger widespread publicoutrage
+Social media can damage a business reputation quickly because public conversation happens in real time and negative content spreads much faster than the turth.It can be shown where employee careless posts company data or inappropriate personal remarks by staff on socal media can quickly reflect on the entire oraganization.For example Bud Light in 2023 ,a promotional socaial media partnership with transgender influence Dylan Mvlvaney triggered heavy conservative backlash and consumer boycott. Sales dropped about 25% .
 
+Also insensitive messaging can trigger widespread publicoutrage.In 2017 where a passenger was dragged off an overbooked filght , smartphone videos wenmt viral across  social media worldwide.This led United Airline to a temporary of $1.4 billion of drop in market in one day.
 These impact on business face sharps drops in stock or enterpsise value , loss of business pratners or key staskeholders and high employee turnover and lowered internal morale.
-
-
-
-
-
-
-
 
 
 
@@ -175,6 +169,19 @@ https://www.cybersafekids.ie/report2024
 EU laws: Digital Service Act
 https://digital-strategy.ec.europa.eu/en/policies/digital-services-act
 <<<<<<< Updated upstream
+
+advertising on tiktok
+https://www.deloittedigital.com/de/en/insights/research/tiktok-short-form-content-long-term-impact.html
+
+starbucks
+https://www.enrichlabs.ai/case-study/starbucks-social-media-strategy
+
+Bud light 
+https://global.lockton.com/news-insights/addressing-the-reputational-risk-social-media-creates-for-consumer-brands
+
+United Airlines
+https://www.erm-academy.org/publication/risk-management-article/the-silent-threat-reputation-damage-in-the-age-of-social-media/
+
 
 
 
