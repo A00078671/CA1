@@ -91,51 +91,28 @@ Due to cases like these the EU government had enforced law such as Digital Servi
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Business Viewpoint analysis 2
 In this section will show how social media has changed the way companies operate the communicate with customers.
 
-
 # Positives
-# 1
-# Connection and community
+# Advertising 
+Social media has revolutionized the way businesses connect with their target audience or consumer (target audience consists if the specific group of individuals who are most are most likely to engage with your product or service). It has become an indispensable tool for marketers seeking to build brand awareness, engage with their target audience and customers to dive sales. Platforms like Facebook, Instagram and TikTok offer easier and free access to vast consumer that can be reached with carefully crafted content.
 
-Early platforms like MySpace were built around profiles. Users could only customise their page, add friends and leave comments on each other's profiles but what they saw came mostly from people  they already knew. Now that there are algorithm-driven platforms like TikTok, Instagram and improved Facebook people get recommended content and people based on interests so users can find communities they would have never met otherwise and stay close to friends. For example, niche hobby groups, support communities and people in other countries.
+For example, companies can use promote their product through short videos on TikTok or Interarm to reach specific audiences. Also online advertising can reduce the marketing cost and makes advertising more accessible to smaller companies. about 65%  of TikTok user report that they have purchased reductant discovering it in incidentally on the platform.
 
-Pew Research Center (2015) found out that 57% of U.S. teens had made new friends online with common interests, mostly in social media platforms like Facebook and Instagram. About 64% of those who had met a new friend online said that met new friends through a social platforms. Furthermore, Pew Research Center (2018) also found that 77% of teens say that they spend a lot of time in online groups and forums. Most of them also said that these sites help people their age interact with individuals from different backgrounds. Thus, social media platforms help young people meet new people, find groups and connect with others beyond people they already know.
+# Access to customer data and market research
 
-# 2
-# Educational benefits
+When using  social media some your personal information will become clear online, such as age, gender, education, location and intertest. These all can bed use by the companies use and collect data  to who would interest with their product or series. Also compared to traditional e methods of hiring  third party research agencies air conducting expensive office questionnaires , social media questionnaires  , polls and giveaways can collect large scale data in a short time at a very low cost. These data are more spontaneous the revealing real pain point and everyday language habits, like the RedCupContest or organic sharing of cup naming quirks rely on user generated content , slashing traditional ad creation cost.
 
-The evolution of social media platforma has significantly expanded the access to knowladge and information world wide, due to social media people from all around the world have access to educational material ,unlike the treditional way of using textbooks and library resources. Students can access tutorials and basic knowlage about their desired topic through platforms like intsagram and tiktok , for example: studyclix , is a ireland based leving cert website that has past exam papers and helps students with revision , due to social media they are able to post videos and intract with students better and are able to advertise about their grins etc.
+Businesses or companies can observe competitor's pricing strategies , promotional activities , audience responses  and content gaps in real time.
 
-Unlike treditional learning where students are relied of text books and their notes , social media has made learning more visual and fun .Platforms like youtube and instagram allows educational topics to be presented in a video form, animated, demonstration by using graphs etc. Research by Perez et al. (2023) shows that these visual aspects allow students to understand the topic better and makes learning more fun and engaging also bringing out the creative side of students.
 
 # Negatives
-# Privacy 
+# 
 
-Social media can damage a business reputation quickly because public conversation happens in real time and negative content spreads much faster than the turth.It can be shown where employee careless posts company data or inappropriate personal remarks by staff on socal media can quickly reflect on the entire oraganization.Also insensitive messaging can trigger widespread publicoutrage
+Social media can damage a business reputation quickly because public conversation happens in real time and negative content spreads much faster than the turth.It can be shown where employee careless posts company data or inappropriate personal remarks by staff on socal media can quickly reflect on the entire oraganization.For example Bud Light in 2023 ,a promotional socaial media partnership with transgender influence Dylan Mvlvaney triggered heavy conservative backlash and consumer boycott. Sales dropped about 25% .Also insensitive messaging can trigger widespread publicoutrage
 
-These impact on business face sharps drops in stock or en
+These impact on business face sharps drops in stock or enterpsise value , loss of business pratners or key staskeholders and high employee turnover and lowered internal morale.
 
 
 
@@ -209,6 +186,9 @@ https://www.cybersafekids.ie/report2024
 EU laws: Digital Service Act
 https://digital-strategy.ec.europa.eu/en/policies/digital-services-act
 <<<<<<< Updated upstream
+
+
+
 =======
 >>>>>>> e6a0a5ac1959751f3ca7bb25bf83ad5b8f53ae35
 >>>>>>> Stashed changes
