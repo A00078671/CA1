@@ -29,7 +29,10 @@ Big names in social media such as Facebook, instagram and Myspace all used relat
 social media influencers first started getting paid in 2005 on YouTube, monetizing there content with add revenue. This was a major breakthrough for the development of social media making it possible to turn the content into either a bit of side money or even for some a full time job.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> cebd1fbb8c22679c89adbc2412caa8e6c37e32bb
 2007-2026 - Since the smartphone penetration rate is geting higher and social media like tikyok , snapchat and Instagram had launched , social media became parts of every day communication.
 
 
