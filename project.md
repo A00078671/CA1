@@ -69,13 +69,14 @@ Early profile-based social platforms mainly showed what users chose to put on th
 
 # Cyberbullying
 
-The evolution of social media has increased the opportunities of cyberbullying. This has various side effects for people who are going through this, cyberbullying may affect the individual mentally and can cause sever depression and social anxiety. Due to platforms like Instagram, TikTok and YouTube, bullying has become more accessible as the person bullying can be anonymous and they don't require to show their faces. According to Cybersafe kids (2024) report 38% of 12-14 year-olds have experienced cyberbullying and have mostly kept it to themselves. These experiences can cause students to have lack of confidence and may get distracted at school. This is also common to see in the comment section of celebrities and influencers, people who have a different opinion or dislike these celebrities are also likely to say something hurtful towards them. Sometime's this can lead to harasment and body shaming.
+The evolution of social media has increased the opportunities of cyberbullying. This has various side effects for people who are going through this, cyberbullying may affect the individual mentally and can cause sever depression and social anxiety. Due to platforms like Instagram, TikTok and YouTube, bullying has become more accessible as the person bullying can be anonymous and they don't require to show their faces. According to Cybersafe kids (2024) report 38% of 12-14 year-olds have experienced cyberbullying and have mostly kept it to themselves. These experiences can cause students to have lack of confidence and may get distracted at school. This is also common to see in the comment section of celebrities and influencers, people who have a different opinion or dislike these celebrities are also likely to say something hurtful towards them. Sometime's this can lead to harassment and body shaming.
 
-Due to cases like these the EU government had enforced law such as Digital Service Act (DSA), which sets obligations of these platforms and to address illegal posting and manage online risks. For example: Instagram, it filters and hides hateful or potential harmful comments. These safety easures taken help in creating social media into a more positive and safe place.
+Due to cases like these the EU government had enforced law such as Digital Service Act (DSA), which sets obligations of these platforms and to address illegal posting and manage online risks. For example: Instagram, it filters and hides hateful or potential harmful comments. These safety measures taken help in creating social media into a more positive and safe place.
 
-
-
-
+# conclusion 
+In conclusion to this, evolution of social media has both negative and positive impacts on society. On the positive side has changed the way people communicate and share common ideas, it helps in accessing educational material from resources worldwide.
+In contrast these platforms also has many negatives mainly regarding privacy and cyberbullying. Platforms collect personal data of the users that may put them at risk and cyberbullying can negatively impact individuals and may cause issues like anxiety. Overall, there have been many improvements but the impact on the society is mostly based on how an individual uses the platform.  
+ 
 
 
 
