@@ -133,7 +133,10 @@ Unlike treditional learning where students are relied of text books and their no
 # Negatives
 # Privacy 
 
-Early profile-based social platforms mainly showed what users chose to put on their own page and share with people they are friends with. But now algorithm-driven platforms personalise what individuals see by collecting information about what users do, share, like, follow and intereact with (TikTok, 2020). For people that use such platforms means that they have less control over their own personal data. For example, the Cambridge Analytica scandal in 2018, where the data firm gathered details of around 87 million Facebook users without their permission. The US Federal Trade Commision found out that Facebook's misleading privacy disclosures let it share users' personal information with third-party apps even though the users had not given them permission to do so. This example shows that personalisation brings real privacy risks for everyone.
+Social media can damage a business reputation quickly because public conversation happens in real time and negative content spreads much faster than the turth.It can be shown where employee careless posts company data or inappropriate personal remarks by staff on socal media can quickly reflect on the entire oraganization.Also insensitive messaging can trigger widespread publicoutrage
+
+These impact on business face sharps drops in stock or en
+
 
 
 
