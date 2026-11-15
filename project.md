@@ -125,6 +125,15 @@ In today's age, where the world has become digitalised, information is constantl
 
 
 
+
+
+
+
+
+## Conclusion
+
+
+
 ## References
 Lenhart, A. (2015) Teens, Technology and Friendships.
 Pew Research Center. 
@@ -172,3 +181,5 @@ https://digital-strategy.ec.europa.eu/en/policies/digital-services-act
 =======
 >>>>>>> e6a0a5ac1959751f3ca7bb25bf83ad5b8f53ae35
 >>>>>>> Stashed changes
+
+working on presentation
