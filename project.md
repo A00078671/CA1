@@ -30,7 +30,7 @@ social media influencers first started getting paid in 2005 on YouTube, monetizi
 
 
 
-
+2007-2026 - Since the smartphone penetration rate is geting higher and social media like tikyok , snapchat and Instagram had launched , social media became parts of every day communication.
 
 
 
