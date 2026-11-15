@@ -29,10 +29,6 @@ Big names in social media such as Facebook, instagram and Myspace all used relat
 social media influencers first started getting paid in 2005 on YouTube, monetizing there content with add revenue. This was a major breakthrough for the development of social media making it possible to turn the content into either a bit of side money or even for some a full time job.
 
 
-<<<<<<< HEAD
-
-=======
->>>>>>> cebd1fbb8c22679c89adbc2412caa8e6c37e32bb
 2007-2026 - Since the smartphone penetration rate is geting higher and social media like tikyok , snapchat and Instagram had launched , social media became parts of every day communication.
 
 
@@ -116,6 +112,14 @@ Due to cases like these the EU government had enforced law such as Digital Servi
 
 
 # Business Viewpoint analysis 2
+
+In this section will show how social media has changed the way companies operate the communicate with customers.
+
+#postives
+#Digital and advertising 
+Social media has revolutionized the way businesses connect with their target audience or consumer (target audience consists if the specific group of individuals who are most are most likely to engage with your product or service). It has become an indispensable tool for marketers seeking to build brand awareness, engage with their target audience and customers to dive sales. Platforms like Facebook, Instagram and TikTok offer easier and free access to vast consumer that can be reached with carefully crafted content.
+
+When using above social media some your personal information will become clear online, such as age, gender, education, location and intertest. These all can bed use by the companies use and collect data and direct advertise to who would interest with their product ot series.
 
 
 
