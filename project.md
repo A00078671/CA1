@@ -1,6 +1,6 @@
 # Introduction
 
-This case study examines how social media platforms have transformed over the years, from early profile-based platforms like Myspace to today's algorithm-driven platforms like, TikTok and Instagram. These changes have transformed the way people around the world communicate with each other, share information and view content.
+This case study examines how social media platforms have transformed over the years, from early profile-based platforms like MySpace to today's algorithm-driven platforms like, TikTok and Instagram. These changes have transformed the way people around the world communicate with each other, share information and view content.
 
 The evolution of social media platforms is important because algorithm-driven platforms have created a diverse space for everyone, people can make connections, find people with common interests, do business and use it for educational purposes.
 
