@@ -114,27 +114,26 @@ Due to cases like these the EU government had enforced law such as Digital Servi
 # Business Viewpoint analysis 2
 In this section will show how social media has changed the way companies operate the communicate with customers.
 
-#postives
-#Digital and advertising 
-Social media has revolutionized the way businesses connect with their target audience or consumer (target audience consists if the specific group of individuals who are most are most likely to engage with your product or service). It has become an indispensable tool for marketers seeking to build brand awareness, engage with their target audience and customers to dive sales. Platforms like Facebook, Instagram and TikTok offer easier and free access to vast consumer that can be reached with carefully crafted content.
 
-When using above social media some your personal information will become clear online, such as age, gender, education, location and intertest. These all can bed use by the companies use and collect data and direct advertise to who would interest with their product ot series.
+# Positives
+# 1
+# Connection and community
 
+Early platforms like MySpace were built around profiles. Users could only customise their page, add friends and leave comments on each other's profiles but what they saw came mostly from people  they already knew. Now that there are algorithm-driven platforms like TikTok, Instagram and improved Facebook people get recommended content and people based on interests so users can find communities they would have never met otherwise and stay close to friends. For example, niche hobby groups, support communities and people in other countries.
 
-In this section will show how social media has changed the way companies operate the communicate with customers.
+Pew Research Center (2015) found out that 57% of U.S. teens had made new friends online with common interests, mostly in social media platforms like Facebook and Instagram. About 64% of those who had met a new friend online said that met new friends through a social platforms. Furthermore, Pew Research Center (2018) also found that 77% of teens say that they spend a lot of time in online groups and forums. Most of them also said that these sites help people their age interact with individuals from different backgrounds. Thus, social media platforms help young people meet new people, find groups and connect with others beyond people they already know.
 
-#postives
-#Digital and advertising 
-Social media has revolutionized the way businesses connect with their target audience or consumer (target audience consists if the specific group of individuals who are most are most likely to engage with your product or service). It has become an indispensable tool for marketers seeking to build brand awareness, engage with their target audience and customers to dive sales. Platforms like Facebook, Instagram and TikTok offer easier and free access to vast consumer that can be reached with carefully crafted content.
+# 2
+# Educational benefits
 
-When using above social media some your personal information will become clear online, such as age, gender, education, location and intertest. These all can bed use by the companies use and collect data and direct advertise to who would interest with their product ot series.
+The evolution of social media platforma has significantly expanded the access to knowladge and information world wide, due to social media people from all around the world have access to educational material ,unlike the treditional way of using textbooks and library resources. Students can access tutorials and basic knowlage about their desired topic through platforms like intsagram and tiktok , for example: studyclix , is a ireland based leving cert website that has past exam papers and helps students with revision , due to social media they are able to post videos and intract with students better and are able to advertise about their grins etc.
 
+Unlike treditional learning where students are relied of text books and their notes , social media has made learning more visual and fun .Platforms like youtube and instagram allows educational topics to be presented in a video form, animated, demonstration by using graphs etc. Research by Perez et al. (2023) shows that these visual aspects allow students to understand the topic better and makes learning more fun and engaging also bringing out the creative side of students.
 
+# Negatives
+# Privacy 
 
-
-
-
-
+Early profile-based social platforms mainly showed what users chose to put on their own page and share with people they are friends with. But now algorithm-driven platforms personalise what individuals see by collecting information about what users do, share, like, follow and intereact with (TikTok, 2020). For people that use such platforms means that they have less control over their own personal data. For example, the Cambridge Analytica scandal in 2018, where the data firm gathered details of around 87 million Facebook users without their permission. The US Federal Trade Commision found out that Facebook's misleading privacy disclosures let it share users' personal information with third-party apps even though the users had not given them permission to do so. This example shows that personalisation brings real privacy risks for everyone.
 
 
 
