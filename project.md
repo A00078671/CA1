@@ -118,6 +118,14 @@ These impact on business face sharps drops in stock or enterpsise value , loss o
 
 
 
+#chance of online disruption.
+
+when it comes to social media communication for business there is the chance of the social media platform going down losing the business there connection with there consumers this can lose the business returning costumers ways of communication.
+
+There is also the chance of a privacy breach such as the account is hacked. This can put the business at risk of being seen in a bad light if the person who broke into the account decides to post controversial things on the account.
+
+
+
 
 
 
