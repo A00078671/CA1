@@ -29,7 +29,7 @@ Big names in social media such as Facebook, instagram and Myspace all used relat
 social media influencers first started getting paid in 2005 on YouTube, monetizing there content with add revenue. This was a major breakthrough for the development of social media making it possible to turn the content into either a bit of side money or even for some a full time job.
 
 
-2007-2026 - Since the smartphone penetration rate is geting higher and social media like tikyok , snapchat and Instagram had launched , social media became parts of every day communication.
+2007-2026 - Since the smartphone penetration rate is geting higher and social media like tiktok , snapchat and Instagram had launched , social media became parts of every day communication.
 
 
 
@@ -123,6 +123,8 @@ These impact on business face sharps drops in stock or enterpsise value , loss o
 when it comes to social media communication for business there is the chance of the social media platform going down losing the business there connection with there consumers this can lose the business returning costumers ways of communication.
 
 There is also the chance of a privacy breach such as the account is hacked. This can put the business at risk of being seen in a bad light if the person who broke into the account decides to post controversial things on the account.
+
+Using social media to interact with clients or consumers can cause the risk of connection being stopped through crashes or network issues. Older clients or consumers may not know how to properly use social media or use it at all.
 
 
 
