@@ -1,6 +1,6 @@
 # Introduction
 
-This case study examines how social media platforms have transformed over the years, from early profile-based platforms like MySpace to today's algorithm-driven platforms like, TikTok and Instagram. These changes have transformed the way people around the world communicate with each other, share information and view content.
+This case study examines how social media platforms have transformed over the years, from early profile-based platforms like MySpace and early Facebook to today's algorithm-driven platforms like, TikTok, today's Facebook and Instagram. These changes have transformed the way people around the world communicate with each other, share information and view content.
 
 The evolution of social media platforms is important because algorithm-driven platforms have created a diverse space for everyone, people can make connections, find people with common interests, do business and use it for educational purposes.
 
@@ -15,7 +15,7 @@ The social aspect helps us understand how people make new connections and meet n
 
 
 
-In 1969 - The frist message "lo" is sent over the APPANET(they was trying tpye the word "login" but after "lo" it crashed) . APPANET was eastblished in the late 1960s by the ARPR , now known as DAPRA , which is the world's direct trchnical  precursor to the moderns internet.
+In 1969 - The frist message "lo" is sent over the ARPANET(they was trying type the word "login" but after "lo" it crashed) . ARPANET was eastblished in the late 1960s by the ARPR , now known as DARPA , which is the world's direct technical  precursor to the moderns internet.
 1973 - CM(community) was the frist computerized bulletin board system (computer sever running software that allow users to conect to the system using a  terminal or a terminal emulater.)
 
 1979-1980 - Usenet(Use's Network) was conceived and established. Users read and post message to one or more topic categories , known as newsgrounp
@@ -87,23 +87,14 @@ In this section will show how social media has changed the way companies operate
 # Digital and advertising 
 Social media has revolutionized the way businesses connect with their target audience or consumer (target audience consists if the specific group of individuals who are most are most likely to engage with your product or service). It has become an indispensable tool for marketers seeking to build brand awareness, engage with their target audience and customers to dive sales. Platforms like Facebook, Instagram and TikTok offer easier and free access to vast consumer that can be reached with carefully crafted content.
 
-When using above social media some your personal information will become clear online, such as age, gender, education, location and intertest. These all can bed use by the companies use and collect data and direct advertise to who would interest with their product ot series.
+When people use these platforms, some of their personal information will become visible online, such as age, gender, education, location and intertest. These all can be used by the companies by collecting data and directly advertising to who would interest with their product or services.
 
 
-In this section will show how social media has changed the way companies operate the communicate with customers.
+# Access to customer's data and market research
 
-# postives
-# Digital and advertising 
-Social media has revolutionized the way businesses connect with their target audience or consumer (target audience consists if the specific group of individuals who are most are most likely to engage with your product or service). It has become an indispensable tool for marketers seeking to build brand awareness, engage with their target audience and customers to dive sales. Platforms like Facebook, Instagram and TikTok offer easier and free access to vast consumer that can be reached with carefully crafted content.
+When using social media some of your personal information will become clear online, such as age, gender, education, location and interests. These all can be used by the companies to collect data and find customers that might be interested with their products or services. Also compared with traditional methods of hiring third party research agencies air conducting expensice office questionnaires, social media questionnaires, polls and giveaways can collect large scale data in a short time at a very low cost. This data are more spontaneous the revealing real pain point and everyday language habits, like the RedCupContest or organic sharing of cup naming quirks rely on user generated content, slashing traditional ad creation cost.
 
-When using above social media some your personal information will become clear online, such as age, gender, education, location and intertest. These all can bed use by the companies use and collect data and direct advertise to who would interest with their product ot series.
-
-
-
-
-
-
-
+businesses or companies can observe competitor's pricing strategies, promotional activities, audience responses and content gaps in real time.
 
 
 
@@ -118,7 +109,7 @@ These impact on business face sharps drops in stock or enterpsise value , loss o
 
 
 
-#chance of online disruption.
+# chance of online disruption.
 
 when it comes to social media communication for business there is the chance of the social media platform going down losing the business there connection with there consumers this can lose the business returning costumers ways of communication.
 
@@ -161,6 +152,7 @@ In today's age, where the world has become digitalised, information is constantl
 
 
 ## References
+
 Lenhart, A. (2015) Teens, Technology and Friendships.
 Pew Research Center. 
 https://www.pewresearch.org/internet/2015/08/06/teens-technology-and-friendships/
@@ -196,10 +188,9 @@ https://www.cybersafekids.ie/report2024
 
 EU laws: Digital Service Act
 https://digital-strategy.ec.europa.eu/en/policies/digital-services-act
-<<<<<<< Updated upstream
 
-<<<<<<< HEAD
-=======
+
+
 advertising on tiktok
 https://www.deloittedigital.com/de/en/insights/research/tiktok-short-form-content-long-term-impact.html
 
@@ -215,9 +206,4 @@ https://www.erm-academy.org/publication/risk-management-article/the-silent-threa
 
 
 
-=======
->>>>>>> e6a0a5ac1959751f3ca7bb25bf83ad5b8f53ae35
->>>>>>> Stashed changes
 
-working on presentation
->>>>>>> 81dd95cd459dc900295e756a6368c22cacfb4f3c
