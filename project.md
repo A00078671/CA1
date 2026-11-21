@@ -16,6 +16,7 @@ The social aspect helps us understand how people make new connections and meet n
 
 
 In 1969 - The frist message "lo" is sent over the ARPANET(they was trying type the word "login" but after "lo" it crashed) . ARPANET was eastblished in the late 1960s by the ARPR , now known as DARPA , which is the world's direct technical  precursor to the moderns internet.
+
 1973 - CM(community) was the frist computerized bulletin board system (computer sever running software that allow users to conect to the system using a  terminal or a terminal emulater.)
 
 1979-1980 - Usenet(Use's Network) was conceived and established. Users read and post message to one or more topic categories , known as newsgrounp
@@ -24,9 +25,18 @@ the first social media platforms ever made by definition were Six Degrees and Fr
 
 in 1997 six Degrees was launched while the company who made it MacroView was founded in 1966 by Andrew Weinreich.Friendster was created by Jonathan Abrahams and was launched in 2002.
 
-Big names in social media such as Facebook, instagram and Myspace all used relativley the same idea with some tweaks being made and some new additions such as stories and voice messages.They all have one thing in common even from the very start. Allow people to communicate and share information as efficiently as possible.
 
-social media influencers first started getting paid in 2005 on YouTube, monetizing there content with add revenue. This was a major breakthrough for the development of social media making it possible to turn the content into either a bit of side money or even for some a full time job.
+Big names in social media such as Facebook launched in 2004 going live on the 2006 and Myspace launched in the early 2003 all used relativley the same idea with some tweaks being made and some new additions such as stories and voice messages.They all have one thing in common even from the very start. Allow people to communicate and share information as efficiently as possible.
+
+2005 - YouTube launced and started monetizing there content with add revenue. This was a major breakthrough for the development of social media as during 2007 YouTube introduced colaborations, partnership programme and it allowed more people to connect .
+It was also the first platform to pay influencers and content creators based on their content, views and followers, allowing them to persue content creation as a full time job.
+
+2010 - Instagram launched, It attracted users as it allowed them to take photos and videos with different filters, it connected people throught comments and likes. It became popular in 2013 as it only allowed a short 2 to 3 min videos unlike YouTube that had longer videos, these videos kept viewers more engaged.
+
+
+
+
+
 
 
 2007-2026 - Since the smartphone penetration rate is geting higher and social media like tiktok , snapchat and Instagram had launched , social media became parts of every day communication.
@@ -163,15 +173,9 @@ https://www.pewresearch.org/internet/2018/11/28/teens-social-media-habits-and-ex
 Elsevier B.V.(2023), Social media as a learning tool for digital age:A Review.
 https://www.sciencedirect.com/science/article/pii/S1877050923017222 
 
-springer nature(2023) A systamatic review of social media as a learning tool for higher education,Volume 28, pp 11921-11950
+Springer nature(2023) A systamatic review of social media as a learning tool for higher education,Volume 28, pp 11921-11950
 https://link.springer.com/article/10.1007/S10639-023-11647-2
 
-
-The frist message have been sent
-https://www.icann.org/en/blogs/details/the-first-message-transmission-29-10-2019-en
-
-what is usenet
-https://en.wikipedia.org/wiki/Usenet
 
 The frist message have been sent
 https://www.icann.org/en/blogs/details/the-first-message-transmission-29-10-2019-en
@@ -180,6 +184,9 @@ What is usenet
 https://en.wikipedia.org/wiki/Usenet
 
 TikTok (2020) How TikTok recommends videos #ForYou. https://newsroom.tiktok.com/en-us/how-tiktok-recommends-videos-for-you/
+
+Instagram history:
+https://www.thekurzweillibrary.com/video-on-instagram
 
 Federal Trade Commission (2019) FTC imposes $5 billion penalty and sweeping new privacy restrictions on Facebook. Press release, 24 July. https://www.ftc.gov/news-events/news/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions-facebook
 
@@ -191,10 +198,10 @@ https://digital-strategy.ec.europa.eu/en/policies/digital-services-act
 
 
 
-advertising on tiktok
+Advertising on tiktok
 https://www.deloittedigital.com/de/en/insights/research/tiktok-short-form-content-long-term-impact.html
 
-starbucks
+Starbucks
 https://www.enrichlabs.ai/case-study/starbucks-social-media-strategy
 
 Bud light 
