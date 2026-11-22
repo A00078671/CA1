@@ -15,31 +15,40 @@ The social aspect helps us understand how people make new connections and meet n
 
 
 
-In 1969 - The frist message "lo" is sent over the ARPANET(they was trying type the word "login" but after "lo" it crashed) . ARPANET was eastblished in the late 1960s by the ARPR , now known as DARPA , which is the world's direct technical  precursor to the moderns internet.
+In 1969 - The frist message "lo" is sent over the ARPANET(they were trying type the word "login" but after "lo" it crashed) . ARPANET was eastblished in the late 1960s by the ARPR , now known as DARPA , which is the world's direct technical  precursor to the modern internet.
 
-1973 - CM(community) was the frist computerized bulletin board system (computer sever running software that allow users to conect to the system using a  terminal or a terminal emulater.)
+1973 - CM(Community Memory) was the first computerized bulletin board system (computer sever running software that allow users to conect to the system using a  terminal or a terminal emulater.)
 
-1979-1980 - Usenet(Use's Network) was conceived and established. Users read and post message to one or more topic categories , known as newsgrounp
+1979-1980 - Usenet(Use's Network) was conceived and established. Users read and post message to one or more topic categories , known as newsgrounps.
 
-the first social media platforms ever made by definition were Six Degrees and Friendster neither of these platforms are around anymore despite there significance in the building of social media.
+The first social media platforms ever made by definition were Six Degrees and Friendster neither of these platforms are around anymore despite there significance in the building of social media.
 
-in 1997 six Degrees was launched while the company who made it MacroView was founded in 1966 by Andrew Weinreich.Friendster was created by Jonathan Abrahams and was launched in 2002.
+In 1997 six Degrees was launched while the company who made it MacroView was founded in 1966 by Andrew Weinreich.Friendster was created by Jonathan Abrams and was launched in 2002.
 
 
-Big names in social media such as Facebook launched in 2004 going live on the 2006 and Myspace launched in the early 2003 all used relativley the same idea with some tweaks being made and some new additions such as stories and voice messages.They all have one thing in common even from the very start. Allow people to communicate and share information as efficiently as possible.
+Big names in social media such as Facebook launched in 2004 going live in 2006 and Myspace launched in the early 2003 all used relativley the same idea with some tweaks being made and some new additions such as stories and voice messages.They all have one thing in common even from the very start. Allow people to communicate and share information as efficiently as possible.
+
 
 2005 - YouTube launced and started monetizing there content with add revenue. This was a major breakthrough for the development of social media as during 2007 YouTube introduced colaborations, partnership programme and it allowed more people to connect .
 It was also the first platform to pay influencers and content creators based on their content, views and followers, allowing them to persue content creation as a full time job.
 
+2006 - Faceboo launched its News Feed and by 2010 it used algorithms called EdgeRank to choose what stories appeared in each user's feed.
+
 2010 - Instagram launched, It attracted users as it allowed them to take photos and videos with different filters, it connected people throught comments and likes. It became popular in 2013 as it only allowed a short 2 to 3 min videos unlike YouTube that had longer videos, these videos kept viewers more engaged.
 
+2011 - MySpace was sold because it lost a lot of memebers to Facebook. 
 
+2012 -  Facebook bought Instagram and reached 1 billion active users.
 
+2016 - Instagram announced that its feed will show the moments it believed each user would care the most about instead of the most recent posts. In the same year ByteDance launched Douyin in China and in 2017 - TikTok launched outside mainland China.
 
-
-
+2018 - Musical.ly was merged into TikTok. TikTok's For You feed recommends videos based on how users intereact with content. For example, what they like, comment on, search for.
 
 2007-2026 - Since the smartphone penetration rate is geting higher and social media like tiktok , snapchat and Instagram had launched , social media became parts of every day communication.
+
+# Conclusion
+
+ This social media history shows how social media moved from connecting people who already knew each other to reccomending content and people through algorithms, which is why its impact on business and society is now so large.
 
 
 
@@ -197,7 +206,6 @@ EU laws: Digital Service Act
 https://digital-strategy.ec.europa.eu/en/policies/digital-services-act
 
 
-
 Advertising on tiktok
 https://www.deloittedigital.com/de/en/insights/research/tiktok-short-form-content-long-term-impact.html
 
@@ -210,7 +218,19 @@ https://global.lockton.com/news-insights/addressing-the-reputational-risk-social
 United Airlines
 https://www.erm-academy.org/publication/risk-management-article/the-silent-threat-reputation-damage-in-the-age-of-social-media/
 
+Facebook's News Feed
+https://www.niemanlab.org/2019/02/happy-birthday-facebook-these-are-the-10-most-important-moments-in-your-not-so-great-relationship-with-the-news-industry/
 
+EdgeRank
+https://techcrunch.com/2010/04/22/facebook-edgerank/
 
+Office Timeline (2024) Facebook history timeline. Available at: https://www.officetimeline.com/blog/facebook-history-timeline
+
+Instagram (2016) See posts you care about first in your feed, 15 March. Available at: https://about.instagram.com/blog/announcements/see-posts-you-care-about-first-in-your-feed
+
+EBSCO(n.d.) TikTok(media app)
+https://www.ebsco.com/research-starters/computer-science/tiktok-media-app/
+
+Encyclopaedia Britannica (n.d.) TikTok. Available at: https://www.britannica.com/topic/TikTok (Accessed: 22 November 2026).
 
 
