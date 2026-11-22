@@ -85,11 +85,7 @@ The evolution of social media has increased the opportunities of cyberbullying. 
 
 Due to cases like these the EU government had enforced law such as Digital Service Act (DSA), which sets obligations of these platforms and to address illegal posting and manage online risks. For example: Instagram, it filters and hides hateful or potential harmful comments. These safety measures taken help in creating social media into a more positive and safe place.
 
-# conclusion 
-In conclusion to this, evolution of social media have both negative and positive impacts on society. On the positive side has changed the way people communicate and share common ideas, it helps in accessing educational material from resources worldwide.
-In contrast these platforms also has many negatives mainly regarding privacy and cyberbullying. Platforms collect personal data of the users that may put them at risk and cyberbullying can negatively impact individuals and may cause issues like anxiety. Overall, there have been many improvements but the impact on the society is mostly based on how an individual uses the platform.  
  
-
 
 
 
@@ -143,9 +139,9 @@ Users must also agree to privacy policy. Ethically, the main concern is that use
 
 
 
-
-# Conclusion 
-
+# conclusion 
+In conclusion to this, evolution of social media have both negative and positive impacts on society. On the positive side has changed the way people communicate and share common ideas, it helps in accessing educational material from resources worldwide.
+In contrast these platforms also has many negatives mainly regarding privacy and cyberbullying. Platforms collect personal data of the users that may put them at risk and cyberbullying can negatively impact individuals and may cause issues like anxiety. Overall, there have been many improvements but the impact on the society is mostly based on how an individual uses the platform.  
 
 
 
