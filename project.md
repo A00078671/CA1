@@ -1,6 +1,6 @@
 # Introduction
 
-This case study examines how social media platforms have transformed over the years, from early profile-based platforms like MySpace and early Facebook to today's algorithm-driven platforms like, TikTok, today's Facebook and Instagram. These changes have transformed the way people around the world communicate with each other, share information and view content.
+This case study examines how social media platforms have transformed over the years. From early profile-based platforms like Myspace and early Facebook to today's algorithm-driven platforms like, TikTok, today's Facebook and Instagram. These changes have transformed the way people communicate with each other around the world, share information and view content.
 
 The evolution of social media platforms is important because algorithm-driven platforms have created a diverse space for everyone, people can make connections, find people with common interests, do business and use it for educational purposes.
 
@@ -60,7 +60,7 @@ The societal viewpoint looks at how the evolution of social media platforms has 
 # 1
 # Connection and community
 
-Early platforms like Myspace were built around profiles. Users could only customise their page, add friends and leave comments on each other's profiles but what they saw came mostly from people they already knew. Now that there are algorithm-driven platforms like TikTok, Instagram and improved Facebook people get recommended content and people based on interests so users can find communities they would have never met otherwise and stay close to friends. For example, niche hobby groups, support communities and people in other countries.
+Early platforms like Myspace were built around profiles. Users could only customise their page, add friends and leave comments on each other's profiles but what they saw mostly came from people they already knew. Now that there are algorithm-driven platforms like TikTok, Instagram and improved Facebook people get recommended content and people based on interests so users can find communities they would have never met otherwise and stay close to friends. For example, niche hobby groups, support communities and people in other countries.
 
 Pew Research Center (2015) found out that 57% of U.S. teens had made new friends online with common interests, mostly in social media platforms like Facebook and Instagram. About 64% of those who had met a new friend online said that met new friends through a social platforms. Furthermore, Pew Research Center (2018) also found that 77% of teens say that they spend a lot of time in online groups and forums. Most of them also said that these sites help people their age interact with individuals from different backgrounds. Thus, social media platforms help young people meet new people, find groups and connect with others beyond people they already know.
 
