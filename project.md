@@ -136,7 +136,10 @@ Using social media to interact with clients or consumers can cause the risk of c
 
 In today's age, where the world has become digitalised, information is constantly being collected, processed and shared. There is a need for strong data protection rules. Do users really know exactly how much of their personal data is being collected every day? As social media evolved, platforms began using personal data to personalise content, recommend posts and display targeted advertisements. Many applications such as TikTok, Instagram and Snapchat do this. Data protection is a fundamental right under EU law. EU data protection legislation consists of the General Data Protection Regulation (GDPR), which came into effect on May 25, 2018, the Law Enforcement Directive (LED), and the Data Protection Regulation for EU bodies, offices and institutions. GDPR means that remarketing on social media is prohibited unless a user has agreed to such activity. 
 
-Users must also agree to privacy policy. Ethically, the main concern is that users may not necessarily know exactly how their online activity is collected. Personal information can reveal people,s preferences. Social media companies can improve by Making privacy policies easier to understand because most people may find it quite confusing at first glance. They should also only collect the personal data necessary for a specific purpose. Some apps use personal information that isn't necessary and don't explain exactly why it's being used. Social media apps should be able to explain to users exactly why their personal information is required. 
+Users must also agree to privacy policy. Ethically, the main concern is that users may not necessarily know exactly how their online activity is collected. Personal information can reveal people's preferences. Social media companies can improve by making privacy policies easier to understand because most people may find it quite confusing at first glance. They should also only collect the personal data necessary for a specific purpose. Some apps use personal information that isn't necessary and don't explain exactly why it's being used. Social media apps should be able to explain to users exactly why their personal information is required so that people can fully understand exactly where their data is going and why it's needed. Many websites and organisations have quite lengthy privacy policies and they do that on purpose because thew average human being will not want to read such long policies so they use this to their advantage of putting things into the policy that most people won't read. 
+
+As social media has been booming, it has given people the opportunity to post many things like photographs and just content as a whole. Features added to applications such as likes, comments and shares can really influence how people interact online. However, these features have raised concerned about cyberbullying and social comparison. Happening more often among teens and young adults, these features are something that people have become sort of reliant on and something that defines who they are. This can take a huge toll on one's mental health. Online bullying and harassment can be very harmful for a young person's mental wellbeing. American Psychological Association's health advisory cited many studies that found online bullying to be more severe than offline bullying. Seeing the amount of time that people spend online is quite scary because this increases the chances of people getting bullied over things. The research showed that it can immensely increase the risk of mental health problems in adolescents. What can social media companies do to make social media safer and better for users? Social media companies can introduce stronger measures against cyberbullying like further censoring certain words that may relate to cyberbullying. They should also make it easier to report harmful or misleading content instead of making users have to take numerous steps in order to report something, just for the companies to take a long while or to never get back to them. Social media companies should also give users far more control over the content that they see. Many companies have implemented smart features and artificial intelligence to monitor recommend videos and posts a user likes, accounts they follow, content they search for and their previous activities, meaning they are the ones who get to decide what comes up on your feed based on that information. Instead of them entirely relying on algorithm recommendations, they should allow users to choose what kind of content they'd like to see. For example, Instagram could allow users to prioritise entertainment, news or educational content on their feed. 
+
 
 
 
@@ -169,7 +172,6 @@ https://www.sciencedirect.com/science/article/pii/S1877050923017222
 Springer nature(2023) A systamatic review of social media as a learning tool for higher education,Volume 28, pp 11921-11950
 https://link.springer.com/article/10.1007/S10639-023-11647-2
 
-
 The frist message have been sent
 https://www.icann.org/en/blogs/details/the-first-message-transmission-29-10-2019-en
 
@@ -188,6 +190,12 @@ https://www.cybersafekids.ie/report2024
 
 EU laws: Digital Service Act
 https://digital-strategy.ec.europa.eu/en/policies/digital-services-act
+
+GDPR European Commission
+https://commission.europa.eu/law/law-topic/data-protection_en
+
+Weir, K. (2023) Social Media brings benefits and risks to teens. Psychology can help identify a path forward
+https://www.apa.org/monitor/2023/09/protecting-teens-on-social-media
 
 
 Advertising on tiktok
