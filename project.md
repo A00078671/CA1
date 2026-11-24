@@ -125,6 +125,8 @@ There is also the chance of a privacy breach such as the account is hacked. This
 
 Using social media to interact with clients or consumers can cause the risk of connection being stopped through crashes or network issues. Older clients or consumers may not know how to properly use social media or use it at all.
 
+There is also the chance people will just miss the information such as they do not see an Email or post. How many times have we all just missed and Email for me personally its a countless amount of times. Especially for older consumers it is very easy for them to not have access or not see what is being shared with them on social media.
+
 
 
 
